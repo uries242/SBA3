@@ -1,0 +1,24 @@
+{
+  "name": "sba3",
+  "version": "1.0.0",
+  "description": "SBA Design and Development Overview In this assessment, you will take a Figma design from Frontend Mentor and implement it using Bootstrap. This project simulates a real-world task where you receive a design handoff and are expected to create a responsive, pixel-perfect webpage. You will apply your knowledge of Bootstrap’s grid system, components, and utility classes while utilizing version control through Git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uries242/SBA3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/uries242/SBA3/issues"
+  },
+  "homepage": "https://github.com/uries242/SBA3#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
