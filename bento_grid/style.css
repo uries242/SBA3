@@ -1,0 +1,29 @@
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+.leftColumnItem1 {
+  background-color: hsl(31, 66%, 93%);
+}
+
+.leftColumnItem2 {
+  background-color: hsl(39, 100%, 71%);
+}
+
+.quickerText {
+  color: hsl(256, 67%, 59%);
+  font-style: italic;
+}
+
+.createPostIcon {
+  width: 100%;
+  height: auto;
+}
+
+.middleColumnItem1 {
+  background-color: hsl(256, 67%, 59%);
+}
+
+.tenXText {
+  color: hsl(39, 100%, 71%);
+}
