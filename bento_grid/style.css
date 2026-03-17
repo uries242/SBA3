@@ -3,12 +3,20 @@ body {
   font-family: "DM Sans", sans-serif;
 }
 
-.leftColumnItem1 {
+.leftColCard1 {
   background-color: hsl(31, 66%, 93%);
+  height: 300px;
+  font-size: 18px;
 }
 
-.leftColumnItem2 {
+.leftColCard2 {
   background-color: hsl(39, 100%, 71%);
+  height: 300px;
+  font-size: 14px;
+}
+
+.leftColCard2 img {
+  width: 80%;
 }
 
 .quickerText {
@@ -17,19 +25,21 @@ body {
 }
 
 .createPostIcon {
-  width: 100%;
+  width: 80%;
   height: auto;
 }
 
-.middleColumnItem1 {
+.middleColCard1 {
   background-color: hsl(256, 67%, 59%);
+  min-height: 250px;
+  font-size: 18px;
 }
 
 .tenXText {
   color: hsl(39, 100%, 71%);
 }
 
-.middleColCard3  {
+.middleColCard3 {
   background-color: hsl(39, 100%, 71%);
 }
 
@@ -38,5 +48,25 @@ body {
 }
 
 .rightColCard1 {
+  background-color: hsl(254, 88%, 90%);
+}
+
+.maintainImgWrapper {
+  overflow: hidden;
+  height: 120px;
+}
+
+.maintainImgWrapper img {
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+
+.scheduleImg {
+  width: 140%;
+  margin-right: -40%;
+}
+
+.scheduleOptimize {
   background-color: hsl(254, 88%, 90%);
 }
